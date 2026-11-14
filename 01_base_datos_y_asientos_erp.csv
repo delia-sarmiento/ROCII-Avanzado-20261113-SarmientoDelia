@@ -1,0 +1,21 @@
+Comprobante,Fecha,Norma_IFRS,Codigo_PUC,Cuenta_Contable,Concepto_Operacion,Debito_COP,Credito_COP,Tratamiento_IFRS
+CI-2026-1101,2026-11-05,NIC 2,140505,Materias Primas - Envases Asepticos,Costo neto FOB + fletes + aranceles + transporte planta,142700000,0,Capitalizable (NIC 2.11)
+CI-2026-1101,2026-11-05,NIC 2,240810,IVA Descontable por Importaciones,IVA 19% recuperable declaracion importacion,26581000,0,Impuesto recuperable (NIC 2.11)
+CI-2026-1101,2026-11-05,NIC 2,529595,Gastos Operacionales - Bodegaje Anormal,Demora aduanera en puerto por negligencia interna,3200000,0,Gasto del periodo (NIC 2.16a)
+CI-2026-1101,2026-11-05,NIC 2,221005,Proveedores del Exterior,Factura EXP-8841 neta de descuento comercial 5%,0,114000000,Pasivo financiero
+CI-2026-1101,2026-11-05,NIC 2,233545,Acreedores - Fletes y Aduanas,Flete maritimo seguro aranceles y transporte terrestre,0,28700000,Pasivo operativo
+CI-2026-1101,2026-11-05,NIC 2,111005,Bancos Nacionales,Pago directo IVA importacion y bodegaje portuario,0,29781000,Salida de efectivo
+CA-2026-1102,2026-11-10,NIC 38,161005,Activos Intangibles - Software ERP,Licencia perpetua + configuracion y pruebas tecnicas,53500000,0,Capitalizable (NIC 38.27)
+CA-2026-1102,2026-11-10,NIC 38,510563,Gastos de Personal - Capacitacion,Entrenamiento operativo y contable del personal,4200000,0,Gasto del periodo (NIC 38.67c)
+CA-2026-1102,2026-11-10,NIC 38,523560,Gastos de Publicidad y Lanzamiento,Campana interna de difusion del nuevo software,1800000,0,Gasto del periodo (NIC 38.67a)
+CA-2026-1102,2026-11-10,NIC 38,233595,Cuentas por Pagar - Proveedor TI,Contrato CT-2026-09 Sistemas Logisticos Andinos,0,59500000,Pasivo operativo
+CA-2026-1103,2026-11-12,NIC 16,152005,Propiedades Planta y Equipo - Maquinaria,Linea llenado + cimentacion + calibracion inicial,95000000,0,Capitalizable (NIC 16.16)
+CA-2026-1103,2026-11-12,NIC 16,514515,Gastos de Mantenimiento Preventivo,Contrato mantenimiento preventivo programado Ano 1,2400000,0,Gasto del periodo (NIC 16.12)
+CA-2026-1103,2026-11-12,NIC 16,230505,Proveedores Nacionales,Factura electronica FE-4510 Maquinarias Industriales,0,97400000,Pasivo operativo
+AJ-2026-1104,2026-11-13,NIC 2/38/16,529595,Gastos - Bodegaje Anormal en Puerto,Reclasificacion ajuste auditoria interna,3200000,0,Correccion error preliminar
+AJ-2026-1104,2026-11-13,NIC 2/38/16,510563,Gastos - Capacitacion de Personal,Reclasificacion ajuste auditoria interna,4200000,0,Correccion error preliminar
+AJ-2026-1104,2026-11-13,NIC 2/38/16,523560,Gastos - Promocion Interna,Reclasificacion ajuste auditoria interna,1800000,0,Correccion error preliminar
+AJ-2026-1104,2026-11-13,NIC 2/38/16,514515,Gastos - Mantenimiento Preventivo,Reclasificacion ajuste auditoria interna,2400000,0,Correccion error preliminar
+AJ-2026-1104,2026-11-13,NIC 2/38/16,140505,Materias Primas - Envases Asepticos,Reversion capitalizacion indebida bodegaje,0,3200000,Correccion error preliminar
+AJ-2026-1104,2026-11-13,NIC 2/38/16,161005,Activos Intangibles - Software ERP,Reversion capitalizacion indebida capacitacion/promo,0,6000000,Correccion error preliminar
+AJ-2026-1104,2026-11-13,NIC 2/38/16,152005,Propiedades Planta y Equipo - Maquinaria,Reversion capitalizacion indebida mantenimiento,0,2400000,Correccion error preliminar
